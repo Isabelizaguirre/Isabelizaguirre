@@ -1,0 +1,25 @@
+body{
+	border: 8px solid;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+	border-color: pink;
+	margin-bottom: 20px;
+	background-color: #7fffda;
+}
+p{
+	margin-left: 40px;
+	margin-right: 40px;
+	font-style: 25px;
+	text-align: justify;
+
+}
+
+img{
+	border-style: dashed;
+	border-width: 8px;
+	border-color: #FF00FF #20B2AA #FF1493 #00FF00 ;
+	border-radius: 20px;
+	margin-bottom: 20px;
+}
